@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BLOCK2</string>
+    <string name="textView_Prompt">EK JAANVAR KO CHUNE</string>
+    <string name="dog">KUTTA</string>
+    <string name="cat">BILLI</string>
+    <string name="lion">SHER</string>
+    <string name="elephant">HATHI</string>
+    <string name="toastMessage">Aaapka Chayan</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BLOCK2</string>
+    <string name="textView_Prompt">CHOOSE AN ANIMAL</string>
+    <string name="dog">DOG</string>
+    <string name="cat">CAT</string>
+    <string name="lion">LION</string>
+    <string name="elephant">ELEPHANT</string>
+    <string-array name="animalsArray">
+        <item>@string/cat</item>
+        <item>@string/dog</item>
+        <item>@string/lion</item>
+        <item>@string/elephant</item>
+    </string-array>
+    <string name="toastMessage">"You Picked "</string>
+</resources>
