@@ -1,4 +1,4 @@
-package com.XpertYT.guessinggame;
+package com.HighSky.guessinggame;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
+
+import com.HighSky.guessinggame.R;
 
 public class MainActivity extends AppCompatActivity {
     Button buttonOne,buttonThree,buttonSeven,buttonFive;
@@ -28,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
         if (v.equals(buttonFive))
             Toast.makeText(getApplicationContext(),
                     "Correct Guess," +
-                            " isse baat pe Youtube me Xpert YT" +
-                            " ko Subscribe karo" +
+                            " Okay now on Youtube search HighSky" +
+                            " and Subscribe now" +
                             " and Keep Smiling " ,
                     Toast.LENGTH_LONG).show();
         if (v.equals(buttonSeven))
