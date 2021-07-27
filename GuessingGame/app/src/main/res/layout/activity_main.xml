@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.HighSky.guessinggame.MainActivity">
 
     <TextView
         android:layout_width="350dp"
@@ -85,7 +85,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginLeft="39dp"
         android:layout_marginBottom="98dp"
-        android:text="Official Sponsor of Xpert YT Subscribe Kardo Yaar mehnat Lagi h and Keep Supporting, Aapke Support se Ek Din Bda Sponsor Milega "
+        android:text="Official Sponsor of HighSky Subscribe Kardo Yaar mehnat Lagi h and Keep Supporting, Aapke Support se Ek Din Bda Sponsor Milega "
         android:textSize="18sp" />
 
     <TextView
@@ -96,9 +96,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginLeft="40dp"
         android:layout_marginBottom="41dp"
-        android:text="INSTAGRAM - @notak4ash
-                                                                       YOUTUBE - Xpert YT
-" />
+        android:text="INSTAGRAM - @hiaakash                                                                        YOUTUBE - HighSky" />
 
     <TextView
         android:id="@+id/textView4"
